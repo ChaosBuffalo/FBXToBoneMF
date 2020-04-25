@@ -21,3 +21,4 @@ Windows
 ## Dependencies:
 
 * [FBX SDK](https://www.autodesk.com/developer-network/platform-technologies/fbx-sdk-2020-0)
+* [json for modern c++](https://github.com/nlohmann/json) (header is already included in project, just giving credit)
